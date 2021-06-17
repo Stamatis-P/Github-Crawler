@@ -1,15 +1,25 @@
 from github import Github
 import requests
+import os
 import config
 
 if __name__ == '__main__':
     g = Github(config.api_key)
 
-    repo = g.get_repo("Stamatis-P/project2")
+    repos = g.get_user().get_repos()
 
-    contents = repo.get_contents("")
+    for repo in repos:
+        directory = repo.name
+        parent_directory = "C:\\Users\\stama\\2021_Research\\Crawler"
 
-    for content in contents:
-        url = content.download_url
-        r = requests.get(url)
-        open(content.name, "wb").write(r.content)
+        path = os.path.join(parent_directory, directory)
+        os.mkdir(path)
+
+        contents = repo.get_contents("")
+
+        for content in contents:
+            #current issue I believe comes from when content is a directory, will fix
+            url = content.download_url
+            path = directory + "/" + content.name
+            r = requests.get(url)
+            open(path, "wb").write(r.content)
