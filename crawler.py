@@ -1,31 +1,21 @@
 from github import Github
-import os
-import requests
+import wget
 import config
 import time
+
 
 def get_rep(repos):
     for repo in repos:
         directory = repo.name
-        # print(directory)
+        default_branch = repo.default_branch
 
         with open("repository_names.txt", "a") as f:
             f.write(directory + "\n")
         time.sleep(2)
 
-        # parent_directory = "C:\\Users\\stama\\2021_Research\\Crawler"
-
-        # path = os.path.join(parent_directory, directory)
-        # os.mkdir(path)
-
-        # contents = repo.get_contents("")
-
-        # for content in contents:
-        # current issue I believe comes from when content is a directory, will fix
-        # url = content.download_url
-        # path = directory + "/" + content.name
-        # r = requests.get(url)
-        # open(path, "wb").write(r.content)
+        download_url = "https://" + repo.url[12:22] + repo.url[28:] + "/archive/refs/heads/" + default_branch + ".zip"
+        print(download_url)
+        wget.download(download_url)
 
 
 if __name__ == '__main__':
