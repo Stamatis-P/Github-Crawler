@@ -1,17 +1,17 @@
 from github import Github
 import requests
 import config
+import wget
 
 if __name__ == '__main__':
+    OUTPUT_FOLDER = "C:/Users/stama/2021_Research/Crawler/Results/"
     g = Github(config.api_key)
 
-    repo = g.get_repo("Stamatis-P/project2")
+    repo = g.get_repo("donnemartin/system-design-primer")
 
     directory = repo.name
-    download_url = repo.url + "/zipball/main"
+    clone_url = repo.git_url
+    download_url = "https://" + repo.url[12:22] + repo.url[28:] + "/archive/refs/heads/master.zip"
     print(download_url)
-    requests.get(download_url, allow_redirects=True)
-    r = requests.get(download_url, allow_redirects=True)
-    print(r)
-
-    requests.get("https://api.github.com/repos/hadley/devtools/zipball/master")
+    wget.download(download_url)
+    # print(clone_url)
