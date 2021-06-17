@@ -8,19 +8,18 @@ if __name__ == '__main__':
     g = Github(config.api_key)
     count = 0
 
-    repos = g.search_repositories(query = "language:python stars:>1000", sort="stars")
+    repos = g.search_repositories(query = "language:python stars:>300", sort="stars")
     for repo in repos:
         count += 1
         if count > 10000:
             break
-
 
         directory = repo.name
         print(str(count) + ": " + directory)
 
         with open("repository_names.txt", "a") as f:
             f.write(str(count) + ": " + directory + "\n")
-        time.wait(4)
+        time.sleep(4)
         #parent_directory = "C:\\Users\\stama\\2021_Research\\Crawler"
 
         #path = os.path.join(parent_directory, directory)
