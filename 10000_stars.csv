@@ -1,0 +1,222 @@
+,Full_names,Stars,Num_Forks,Num_Commits,Topics,Size
+0,ytdl-org/youtube-dl,101899,6184,18491,[],63683
+1,pallets/flask,57034,14440,4461,"['python', 'flask', 'wsgi', 'web-framework', 'werkzeug', 'jinja', 'pallets']",8833
+2,scikit-learn/scikit-learn,47806,21529,27468,"['machine-learning', 'python', 'statistics', 'data-science', 'data-analysis']",132064
+3,psf/requests,46301,8336,6060,"['python', 'http', 'forhumans', 'requests', 'python-requests', 'client', 'humans', 'cookies']",12706
+4,scrapy/scrapy,42031,9224,9027,"['python', 'scraping', 'crawling', 'framework', 'crawler', 'hacktoberfest']",21822
+5,pandas-dev/pandas,31561,13141,28092,"['data-analysis', 'pandas', 'flexible', 'alignment', 'python']",243088
+6,getsentry/sentry,29332,3206,39247,"['crash-reporting', 'crash-reports', 'error-monitoring', 'monitoring', 'devops', 'csp-report', 'django', 'error-logging', 'sentry', 'python', 'monitor', 'apm', 'hacktoberfest']",226718
+7,mitmproxy/mitmproxy,25054,3031,9571,"['python', 'security', 'man-in-the-middle', 'tls', 'ssl', 'http', 'http2', 'websocket', 'proxy', 'debugging', 'hacktoberfest']",51933
+8,geekcomputers/Python,24057,10298,2505,[],30682
+9,encode/django-rest-framework,22141,5794,8471,"['python', 'django', 'api', 'rest']",49033
+10,tornadoweb/tornado,20251,5163,4340,"['python', 'asynchronous']",9066
+11,nicolargo/glances,19383,1242,4151,"['python', 'multi-platform', 'monitoring', 'system', 'terminal', 'web', 'restful', 'restful-api']",33584
+12,numpy/numpy,18677,6012,28165,"['numpy', 'python']",100828
+13,celery/celery,18144,3990,11741,"['python', 'task-manager', 'task-scheduler', 'task-runner', 'queue-workers', 'queued-jobs', 'queue-tasks', 'amqp', 'redis', 'sqs', 'sqs-queue', 'python3', 'python-library']",32538
+14,locustio/locust,17439,2207,3229,"['locust', 'python', 'load-testing', 'performance-testing', 'http', 'benchmarking', 'load-generator']",6358
+15,reddit-archive/reddit,15878,2804,7956,"['reddit', 'python', 'javascript']",40093
+16,ipython/ipython,15038,4142,25375,"['ipython', 'jupyter', 'data-science', 'notebook', 'python', 'repl', 'closember', 'hacktoberfest']",75352
+17,matplotlib/matplotlib,14460,5990,40703,"['matplotlib', 'data-visualization', 'data-science', 'python', 'qt', 'wx', 'gtk', 'plotting', 'tk', 'hacktoberfest']",421199
+18,kivy/kivy,13591,2751,12551,"['python', 'ui', 'windows', 'ios', 'android', 'macos', 'linux', 'app', 'kivy']",74547
+19,wting/autojump,13113,594,839,"['autojump', 'python', 'filesystem', 'command-line-tool']",797
+20,fabric/fabric,13097,1703,1489,[],19069
+21,RaRe-Technologies/gensim,12604,3896,4285,"['gensim', 'topic-modeling', 'information-retrieval', 'machine-learning', 'natural-language-processing', 'nlp', 'data-science', 'python', 'data-mining', 'word2vec', 'word-embeddings', 'neural-network', 'document-similarity', 'word-similarity', 'fasttext']",105459
+22,saltstack/salt,12005,5036,112695,"['python', 'configuration-management', 'remote-execution', 'infrastructure-management', 'zeromq', 'event-stream', 'event-management', 'cloud-providers', 'cloud-management', 'cloud-provisioning', 'infrasructure', 'infrastructure-automation', 'infrastructure-as-code', 'infrastructure-as-a-code', 'iot', 'edge', 'cloud']",525147
+23,beetbox/beets,10477,1656,10241,"['music', 'musicbrainz', 'python', 'music-library', 'cli', 'hacktoberfest']",22704
+24,ranger/ranger,10464,689,4747,"['file-manager', 'vim', 'console', 'file-launcher', 'file-preview']",10015
+25,postmanlabs/httpbin,10291,1475,841,"['http', 'http-server', 'testing', 'service', 'api', 'json', 'httpbin', 'python']",750
+26,nltk/nltk,10216,2420,14155,"['nltk', 'python', 'nlp', 'natural-language-processing', 'machine-learning']",350119
+27,django/django,60504,25306,30161,"['python', 'django', 'web', 'framework', 'orm', 'templates', 'models', 'views', 'apps', 'hacktoberfest']",211935
+28,httpie/httpie,52606,3357,1518,"['http', 'cli', 'client', 'terminal', 'web', 'json', 'development', 'rest', 'debugging', 'python', 'usability', 'httpie', 'developer-tools', 'http-client', 'curl', 'devops', 'api', 'api-client', 'rest-api', 'api-testing']",6671
+29,ansible/ansible,50545,20611,52074,"['python', 'ansible', 'hacktoberfest']",208274
+30,soimort/you-get,42130,8485,2406,[],3568
+31,shadowsocks/shadowsocks,33076,12468,1,[],891
+32,faif/python-patterns,29536,5847,788,"['python', 'idioms', 'design-patterns']",3727
+33,fxsjy/jieba,27263,6184,523,[],56033
+34,ycm-core/YouCompleteMe,23380,2641,2839,"['vim', 'code-completion', 'code-analysis', 'semantic-engine']",36860
+35,sqlmapproject/sqlmap,21547,4447,9868,"['sql-injection', 'detection', 'exploitation', 'takeover', 'python', 'database', 'pentesting', 'vulnerability-scanner', 'sqlmap']",76826
+36,StevenBlack/hosts,19049,1676,2751,"['python', 'unified-hosts', 'malware', 'ad-blocker', 'porn-filter', 'social-media-filter', 'hosts', 'privacy', 'protection', 'pornblocker', 'gambling-filter', 'ransomware', 'trojans', 'security', 'curated-sources', 'anti-virus']",273099
+37,bokeh/bokeh,15667,3755,19351,"['bokeh', 'python', 'interactive-plots', 'javascript', 'visualization', 'plotting', 'plots', 'data-visualisation', 'notebooks', 'jupyter', 'visualisation', 'numfocus']",244529
+38,spotify/luigi,15103,2248,4008,"['python', 'luigi', 'orchestration-framework', 'scheduling', 'hadoop']",10593
+39,quantopian/zipline,14558,3882,6226,"['quant', 'python', 'algorithmic-trading', 'zipline']",170757
+40,joke2k/faker,13221,1494,2800,"['python', 'fake', 'testing', 'dataset', 'fake-data', 'test-data', 'test-data-generator']",8246
+41,mnielsen/neural-networks-and-deep-learning,12937,5762,235,[],20914
+42,powerline/powerline,12889,960,2850,"['python', 'statusline', 'prompt', 'vim', 'bash', 'zsh', 'fish', 'tmux', 'ipython', 'powerline']",4202
+43,python/mypy,11682,1920,9832,"['python', 'types', 'typing', 'typechecker', 'linter']",49393
+44,aws/aws-cli,11627,2754,9733,"['aws', 'cloud', 'aws-cli', 'cloud-management']",66148
+45,sivel/speedtest-cli,11407,1606,299,"['python', 'python-library', 'python-script', 'speedtest']",312
+46,home-assistant/core,47042,15204,41180,"['python', 'home-automation', 'iot', 'internet-of-things', 'mqtt', 'raspberry-pi', 'asyncio', 'hacktoberfest']",276116
+47,getredash/redash,19804,3316,7251,"['redash', 'python', 'visualization', 'analytics', 'bi', 'redshift', 'bigquery', 'athena', 'mysql', 'postgresql', 'dashboard', 'javascript', 'business-intelligence', 'databricks', 'spark', 'spark-sql', 'hacktoberfest']",26795
+48,toml-lang/toml,16046,726,793,[],2268
+49,cookiecutter/cookiecutter,15593,1524,2730,"['python', 'cookiecutter', 'cookiecutter-']",2725
+50,chriskiehl/Gooey,14985,774,732,[],4135
+51,saleor/saleor,14404,4080,19114,"['python', 'e-commerce', 'django', 'storefront', 'store', 'commerce', 'shop', 'ecommerce-storefront', 'ecommerce', 'cart', 'ecommerce-platform', 'react', 'pwa', 'graphql', 'headless', 'headless-ecommerce', 'headless-commerce', 'hacktoberfest', 'multichannel']",121912
+52,aio-libs/aiohttp,11820,1638,7521,"['aiohttp', 'asyncio', 'python', 'http', 'http-server', 'http-client', 'async', 'hacktoberfest']",20083
+53,lra/mackup,11545,843,2180,[],2951
+54,codelucas/newspaper,11439,1809,651,"['python', 'news', 'crawler', 'crawling', 'scraper', 'news-aggregator']",18349
+55,kovidgoyal/calibre,10918,1558,43936,"['ebook-manager', 'calibre', 'python', 'ebook', 'ebooks', 'ebook-reader', 'ebook-formats', 'epub', 'kindle', 'epub-generation']",277470
+56,SFTtech/openage,10627,1025,4039,"['game', 'engine', 'clone', 'python', 'c-plus-plus', 'qt', 'nyan', 'opengl', 'openage', 'age-of-empires', 'cmake', 'multiplayer', 'linux', 'game-engine', 'entity-component-system', 'rts-engine', 'cpp', 'cpp17', 'game-development', 'hacktoberfest']",12187
+57,mail-in-a-box/mailinabox,10522,1105,1839,"['smtp', 'email', 'mail', 'server']",3232
+58,plotly/plotly.py,10455,1895,5293,"['python', 'd3', 'plotly', 'plotlyjs', 'webgl', 'dashboard', 'visualization', 'graph-library', 'plotly-dash', 'jupyter-notebook', 'sparkles', 'regl', 'declarative', 'interactive']",109033
+59,vinta/awesome-python,105907,19149,1622,"['awesome', 'python', 'collections', 'python-library', 'python-framework', 'python-resources']",6616
+60,josephmisiti/awesome-machine-learning,51740,11709,1662,[],3906
+61,certbot/certbot,28427,3049,10339,"['acme', 'acme-client', 'certbot', 'certificate', 'letsencrypt', 'python']",47119
+62,hankcs/HanLP,24047,6315,1548,"['nlp', 'natural-language-processing', 'hanlp', 'pos-tagging', 'dependency-parser', 'text-classification', 'named-entity-recognition', 'semantic-parsing']",56888
+63,explosion/spaCy,21647,3573,15090,"['natural-language-processing', 'data-science', 'machine-learning', 'python', 'cython', 'nlp', 'artificial-intelligence', 'ai', 'spacy', 'nlp-library', 'neural-network', 'neural-networks', 'deep-learning', 'named-entity-recognition', 'entity-linking', 'text-classification', 'tokenization']",184917
+64,jumpserver/jumpserver,17293,4303,6620,"['jumpserver', 'python', 'ssh-server', 'django', 'coco', 'luna', 'terminal', 'web-terminal', 'bastion-host']",63660
+65,nginx-proxy/nginx-proxy,15392,2475,766,"['nginx', 'docker', 'docker-gen', 'letsencrypt']",875
+66,binux/pyspider,15180,3536,1181,"['python', 'crawler']",4171
+67,mkdocs/mkdocs,13094,1828,1601,"['mkdocs', 'documentation', 'static-site-generator', 'markdown', 'python']",30061
+68,gunthercox/ChatterBot,11668,3825,1848,"['chatterbot', 'machine-learning', 'chatbot', 'python', 'conversation', 'language', 'bot']",4335
+69,pallets/click,11554,1162,2034,"['python', 'cli', 'click', 'pallets']",3240
+70,wagtail/wagtail,11246,2360,12098,"['python', 'django', 'cms', 'wagtail', 'hacktoberfest']",150032
+71,wifiphisher/wifiphisher,10205,2203,791,"['wifiphisher', 'wifi', 'rogue', 'access-point', 'python', 'security', 'attack', 'malware', 'phishing', 'redteaming']",12807
+72,nvbn/thefuck,64508,2949,1620,"['python', 'shell']",4075
+73,keras-team/keras,53041,18199,6145,"['deep-learning', 'tensorflow', 'neural-networks', 'machine-learning', 'data-science', 'python']",18982
+74,minimaxir/big-list-of-naughty-strings,41483,1912,273,[],330
+75,apache/superset,41409,7842,8560,"['superset', 'apache', 'apache-superset', 'data-visualization', 'data-viz', 'analytics', 'business-intelligence', 'data-science', 'data-engineering', 'asf', 'bi', 'business-analytics', 'data-analytics', 'data-analysis', 'python', 'react', 'sql-editor', 'flask']",280359
+76,3b1b/manim,38548,4348,4233,"['python', 'animation', 'explanatory-math-videos', '3b1b-videos']",73605
+77,isocpp/CppCoreGuidelines,32224,4252,1988,[],29408
+78,XX-net/XX-Net,30887,7688,2222,"['goagent', 'gfw', 'proxy', 'vpn', 'uncensored']",53361
+79,donnemartin/interactive-coding-challenges,23994,3798,790,"['python', 'algorithm', 'data-structure', 'development', 'programming', 'coding', 'interview', 'interview-questions', 'interview-practice', 'competitive-programming']",7768
+80,0xAX/linux-insides,23791,2601,1822,"['linux-kernel', 'linux-insides', 'linux']",16042
+81,apache/airflow,23599,9232,13994,"['airflow', 'apache', 'apache-airflow', 'python', 'scheduler', 'workflow', 'hacktoberfest']",136214
+82,donnemartin/data-science-ipython-notebooks,21785,6374,543,"['python', 'machine-learning', 'deep-learning', 'data-science', 'big-data', 'aws', 'tensorflow', 'theano', 'caffe', 'scikit-learn', 'kaggle', 'spark', 'mapreduce', 'hadoop', 'matplotlib', 'pandas', 'numpy', 'scipy', 'keras']",49025
+83,tqdm/tqdm,19906,1027,1889,"['progressbar', 'progressmeter', 'progress-bar', 'meter', 'rate', 'console', 'terminal', 'time', 'progress', 'gui', 'python', 'parallel', 'cli', 'utilities', 'jupyter', 'discord', 'telegram', 'pandas', 'keras', 'closember']",5898
+84,drduh/macOS-Security-and-Privacy-Guide,18525,1244,571,"['apple', 'macos', 'security', 'privacy', 'osx', 'disk-encryption', 'macos-setup', 'macos-security', 'macbook-security', 'dnscrypt-proxy', 'macbook-configuration']",1717
+85,python-telegram-bot/python-telegram-bot,16831,3559,2257,"['python', 'telegram', 'bot', 'chatbot', 'framework', 'hacktoberfest']",10576
+86,tzutalin/labelImg,15716,4755,411,"['python2', 'python3', 'annotations', 'tools', 'imagenet', 'deep-learning', 'detection', 'recognition', 'image-classification']",238436
+87,plotly/dash,15336,1550,5559,"['dash', 'plotly', 'data-visualization', 'data-science', 'gui-framework', 'flask', 'react', 'python', 'finance', 'bioinformatics', 'technical-computing', 'charting', 'plotly-dash', 'web-app', 'productivity', 'modeling', 'r', 'rstats', 'jupyter', 'julia']",90019
+88,zulip/zulip,14366,4755,44889,"['zulip', 'python', 'python3', 'chat', 'javascript', 'collaboration', 'slack', 'foss', 'free', 'apache', 'react-native', 'electron']",325372
+89,magic-wormhole/magic-wormhole,13828,481,1523,[],2600
+90,Eloston/ungoogled-chromium,13116,565,1919,"['chromium', 'inox', 'iridium', 'privacy', 'control', 'transparency', 'google-chromium']",12490
+91,jupyter/jupyter,12906,3309,704,[],6219
+92,google/yapf,12135,823,1140,"['python', 'formatter', 'google']",2838
+93,aleju/imgaug,11931,2132,2913,"['image-augmentation', 'machine-learning', 'augmentation', 'deep-learning', 'images', 'affine-transformation', 'polygon', 'heatmap', 'segmentation-maps', 'keypoints', 'bounding-boxes', 'augment-images', 'crop', 'contrast']",28618
+94,apprenticeharper/DeDRM_tools,11312,947,532,[],24856
+95,meolu/walle-web,11224,2644,1206,"['deployer', 'walle-web', 'python', 'git', 'devops', 'devops-tools', 'cd']",26843
+96,waditu/tushare,11179,4054,412,"['python', 'finance', 'fintech', 'stock-market', 'stock-data', 'tushare', 'pandas', 'realtime-quotes-data']",7549
+97,equinusocio/material-theme,11092,779,1475,"['material-theme', 'theme', 'sublime-text', 'material-ui', 'ux', 'user-experience', 'material-design']",12599
+98,public-apis/public-apis,166451,18417,4084,"['api', 'public-apis', 'free', 'apis', 'list', 'development', 'software', 'public', 'resources', 'hacktoberfest']",5702
+99,tensorflow/models,71758,42773,7508,[],589724
+100,521xueweihan/HelloGitHub,48015,6906,117,"['github', 'hellogithub', 'python', 'awesome']",3813
+101,openai/gym,25583,6878,1422,[],4692
+102,trailofbits/algo,23951,1937,1092,"['vpn-server', 'strongswan', 'ansible', 'vpn', 'ikev2', 'security', 'encryption', 'ipsec', 'vpn-client', 'ssh-tunnel', 'wireguard']",2988
+103,littlecodersh/ItChat,21810,4808,188,"['itchat', 'wechat', 'api', 'robot']",955
+104,magenta/magenta,17120,3450,1393,[],37039
+105,chubin/wttr.in,16006,769,1147,"['weather-information', 'weather-api', 'curl', 'weather', 'weather-app', 'terminal', 'ascii-art', 'hacktoberfest2021', 'hacktoberfest']",1806
+106,charlax/professional-programming,15877,1373,292,"['read-articles', 'programmer', 'professional', 'scalability', 'concepts', 'documentation', 'lessons-learned', 'engineer', 'programming-language', 'learning', 'architecture', 'computer-science']",5094
+107,sanic-org/sanic,15553,1382,2579,"['python', 'framework', 'asyncio', 'api-server', 'web', 'web-server', 'web-framework', 'asgi', 'sanic', 'hacktoberfest']",3974
+108,davidsandberg/facenet,12092,4556,566,"['face-recognition', 'tensorflow', 'facenet', 'deep-learning', 'computer-vision', 'face-detection', 'mtcnn']",2991
+109,kholia/OSX-KVM,12006,1162,9,"['macos', 'emulation', 'qemu-kvm', 'qemu', 'osx', 'kvm', 'macos-installer', 'hackintosh', 'mojave-hackintosh', 'catalina-hackinotsh', 'catalina', 'bigsur', 'bigsur-hackintosh', 'kernel-debugging', 'macos-mojave', 'virtualization', 'monterey', 'monterey-hackintosh']",107286
+110,Miserlou/Zappa,11848,1230,2916,"['zappa', 'api-gateway', 'aws-lambda', 'python', 'serverless', 'serverless-framework', 'flask', 'django', 'pyramid', 'bottle', 'lambda']",5645
+111,TheAlgorithms/Python,122157,32121,2339,"['python', 'algorithm', 'algorithms-implemented', 'algorithm-competitions', 'algos', 'sorts', 'searches', 'sorting-algorithms', 'education', 'learn', 'practice', 'community-driven', 'interview', 'hacktoberfest']",12117
+112,localstack/localstack,36203,2714,2540,"['aws', 'localstack', 'testing', 'continuous-integration', 'developer-tools', 'python']",10286
+113,swisskyrepo/PayloadsAllTheThings,31682,8210,1289,"['pentest', 'payload', 'bypass', 'web-application', 'hacking', 'vulnerability', 'bounty', 'methodology', 'privilege-escalation', 'penetration-testing', 'cheatsheet', 'security', 'enumeration', 'bugbounty', 'redteam', 'payloads', 'hacktoberfest']",12173
+114,floodsung/Deep-Learning-Papers-Reading-Roadmap,30636,5998,112,['deep-learning'],3706
+115,commaai/openpilot,30399,4854,5085,['hacktoberfest'],1630334
+116,keon/algorithms,19913,3822,923,"['algorithm', 'python', 'competitive-programming', 'data-structure', 'algorithms', 'sort', 'search', 'tree', 'graph']",1367
+117,ray-project/ray,17989,2974,10164,"['ray', 'distributed', 'parallel', 'machine-learning', 'reinforcement-learning', 'deep-learning', 'python', 'rllib', 'hyperparameter-search', 'optimization', 'data-science', 'automl', 'hyperparameter-optimization', 'model-selection', 'java', 'serving', 'deployment']",139637
+118,pytorch/examples,17219,7662,550,[],40121
+119,PaddlePaddle/Paddle,16840,4020,32483,"['paddlepaddle', 'deep-learning', 'scalability', 'machine-learning', 'neural-network', 'python', 'efficiency', 'distributed-training']",202177
+120,luong-komorebi/Awesome-Linux-Software,16615,1520,1329,"['linux-desktop', 'desktop-environment', 'freeware-icon', 'oss-icon', 'icon-theme', 'free', 'applications', 'cross-platform', 'ubuntu-linux', 'awesome-list', 'software', 'tools', 'linux-resource', 'linux-app', 'cli-app', 'gui-app', 'open-source']",4601
+121,miloyip/game-programmer,13624,1671,83,[],253417
+122,jhao104/proxy_pool,13570,3626,579,"['crawler', 'proxy', 'proxypool', 'spider', 'ssdb', 'flask', 'crawl', 'redis']",557
+123,facebook/prophet,13565,3867,694,"['forecasting', 'r', 'python']",53943
+124,timgrossmann/InstaPy,13373,3259,3315,"['instagram', 'clarifai', 'automation', 'script', 'python', 'selenium', 'bot']",85103
+125,RasaHQ/rasa,12915,3662,29118,"['nlp', 'machine-learning', 'machine-learning-library', 'bot', 'bots', 'botkit', 'rasa', 'wit', 'nlu', 'conversational-bots', 'conversational-agents', 'conversational-ai', 'spacy', 'mitie', 'chatbot', 'chatbots', 'chatbots-framework', 'bot-framework', 'natural-language-processing', 'conversation-driven-development']",1505805
+126,kovidgoyal/kitty,12487,624,8048,"['terminal-emulators', 'opengl', 'terminfo', 'vt100', 'python', 'c', 'terminal']",37654
+127,h2y/Shadowrocket-ADBlock-Rules,12163,1949,203,"['shadowrocket', 'surge', 'gfw', 'shadowsocks', 'shadowsocksr', 'ssr', 'proxy']",3864
+128,alexjc/neural-enhance,11336,1314,102,[],3362
+129,ShangtongZhang/reinforcement-learning-an-introduction,10896,4026,313,"['reinforcement-learning', 'artificial-intelligence']",6174
+130,lengstrom/fast-style-transfer,10149,2394,69,"['style-transfer', 'neural-style', 'neural-networks', 'deep-learning']",11288
+131,pytorch/vision,10145,5182,2172,"['computer-vision', 'machine-learning']",85455
+132,chiphuyen/stanford-tensorflow-tutorials,10078,4237,106,"['tensorflow', 'deep-learning', 'tutorial', 'nlp', 'natural-language-processing', 'chatbot', 'machine-learning', 'stanford', 'course-materials', 'python']",14037
+133,donnemartin/system-design-primer,148440,26268,321,"['programming', 'development', 'design', 'design-system', 'system', 'design-patterns', 'web', 'web-application', 'webapp', 'python', 'interview', 'interview-questions', 'interview-practice']",11152
+134,ageitgey/face_recognition,41996,11519,219,"['machine-learning', 'face-detection', 'face-recognition', 'python']",103925
+135,python/cpython,41040,20285,111366,[],425153
+136,apachecn/AiLearning,31799,10240,200,"['fp-growth', 'apriori', 'mahchine-leaning', 'naivebayes', 'svm', 'adaboost', 'kmeans', 'svd', 'pca', 'logistic', 'regression', 'recommendedsystem', 'sklearn', 'scikit-learn', 'nlp', 'deeplearning', 'python', 'dnn', 'lstm', 'rnn']",170910
+137,testerSunshine/12306,30325,9353,435,[],58572
+138,chubin/cheat.sh,27483,1346,870,"['cheatsheet', 'curl', 'terminal', 'command-line', 'cli', 'examples', 'documentation', 'help', 'tldr', 'hacktoberfest2021']",4510
+139,pypa/pipenv,22414,1649,7112,"['pip', 'python', 'packaging', 'virtualenv', 'pipfile']",244286
+140,yunjey/pytorch-tutorial,22079,6612,173,"['deep-learning', 'pytorch-tutorial', 'neural-networks', 'pytorch']",13110
+141,google/python-fire,20367,1196,259,"['python', 'cli']",6231
+142,eriklindernoren/ML-From-Scratch,20347,3798,374,"['machine-learning', 'deep-learning', 'deep-reinforcement-learning', 'machine-learning-from-scratch', 'data-science', 'data-mining', 'genetic-algorithm']",553
+143,junyanz/pytorch-CycleGAN-and-pix2pix,16122,4689,501,"['pytorch', 'gan', 'cyclegan', 'pix2pix', 'deep-learning', 'computer-vision', 'computer-graphics', 'image-manipulation', 'image-generation', 'generative-adversarial-network', 'gans']",8341
+144,shimohq/chinese-programmer-wrong-pronunciation,14625,1088,361,"['pronunciation', 'documentation', 'spelling', 'chinese-programmers']",288
+145,Jack-Cherish/python-spider,13954,5139,336,"['python-spider', 'python3', 'python', 'webspider']",1277
+146,youfou/wxpy,13003,2222,304,"['wechat', 'weixin', 'api']",600
+147,freqtrade/freqtrade,12943,2752,13226,"['python', 'cryptocurrencies', 'trading-bot', 'telegram-bot', 'bitcoin', 'trade', 'cryptocurrency', 'algorithmic-trading', 'freqtrade']",57696
+148,ArchiveBox/ArchiveBox,12140,659,2840,"['pocket', 'wget', 'browser-bookmarks', 'pinboard', 'chromium', 'firefox', 'backups', 'rss', 'web-archiving', 'python', 'wayback-machine', 'bookmark-archiver', 'youtube-dl', 'self-hosted', 'internet-archiving', 'archivebox', 'headless-browser', 'digipres', 'warc', 'singlefile']",5674
+149,openai/baselines,12008,3292,347,[],6620
+150,twintproject/twint,11790,1702,845,"['osint', 'twitter', 'python', 'scrape', 'tweets', 'elasticsearch', 'kibana', 'scrape-followers', 'scrape-likes', 'scrape-following', 'twint', 'tweep']",4578
+151,tensorflow/tensor2tensor,11689,2908,4358,"['machine-learning', 'machine-translation', 'deep-learning', 'reinforcement-learning', 'tpu']",16345
+152,pyecharts/pyecharts,11599,2529,1515,"['echarts', 'python']",98479
+153,tonybeltramelli/pix2code,11329,1284,26,"['deep-learning', 'datasets', 'deep-neural-networks', 'front-end-development', 'graphical-user-interface']",1233636
+154,hindupuravinash/the-gan-zoo,11197,2196,175,"['machine-learning', 'gan', 'generative-adversarial-network']",2196
+155,allenai/allennlp,10589,2086,2607,"['pytorch', 'nlp', 'natural-language-processing', 'deep-learning', 'data-science', 'python']",74355
+156,ansible/awx,10319,2587,30945,"['python', 'ansible', 'javascript', 'django', 'django-rest-framework', 'awx', 'automation', 'reactjs']",254767
+157,deepfakes/faceswap,39414,11203,1404,"['faceswap', 'face-swap', 'deep-learning', 'deeplearning', 'deep-neural-networks', 'deepfakes', 'deepface', 'deep-face-swap', 'fakeapp', 'neural-networks', 'neural-nets', 'openfaceswap', 'myfakeapp', 'machine-learning']",200162
+158,satwikkansal/wtfpython,27523,2244,482,"['python', 'wats', 'snippets', 'wtf', 'gotchas', 'documentation', 'pitfalls', 'interview-questions', 'python-interview-questions']",1264
+159,d2l-ai/d2l-zh,26698,6277,3751,"['deep-learning', 'book', 'notebook', 'natural-language-processing', 'computer-vision', 'machine-learning', 'python', 'chinese']",222726
+160,facebookresearch/Detectron,24738,5229,141,[],4483
+161,matterport/Mask_RCNN,20818,9110,203,"['mask-rcnn', 'tensorflow', 'object-detection', 'instance-segmentation', 'keras']",122597
+162,pytorch/fairseq,14295,3624,2039,"['python', 'pytorch', 'artificial-intelligence']",13836
+163,wangshub/wechat_jump_game,13889,4414,332,"['python', 'adb', 'wechat-app']",26970
+164,rsms/inter,13149,310,1154,"['typeface', 'font', 'design']",515020
+165,pyg-team/pytorch_geometric,12920,2156,5131,"['pytorch', 'geometric-deep-learning', 'graph-neural-networks', 'deep-learning', 'graph-convolutional-networks']",6133
+166,horovod/horovod,11811,1914,1084,"['tensorflow', 'uber', 'machine-learning', 'machinelearning', 'mpi', 'baidu', 'deep-learning', 'deeplearning', 'keras', 'pytorch', 'mxnet', 'spark', 'ray']",5904
+167,deepinsight/insightface,10400,3407,1853,"['face-recognition', 'face-detection', 'mxnet', 'face-alignment', 'age-estimation', 'arcface', 'retinaface', 'pytorch', 'oneflow', 'paddlepaddle']",24285
+168,Delgan/loguru,10120,451,562,"['python', 'logging', 'logger', 'log']",1883
+169,jackfrued/Python-100-Days,110905,42320,356,[],307408
+170,gto76/python-cheatsheet,25529,4584,2128,"['cheatsheet', 'python', 'reference', 'python-cheatsheet']",10720
+171,psf/black,23443,1456,1128,"['python', 'code', 'formatter', 'codeformatter', 'gofmt', 'yapf', 'autopep8', 'pre-commit-hook']",5722
+172,python-poetry/poetry,16948,1397,1896,"['python', 'dependency-manager', 'package-manager', 'packaging', 'hacktoberfest']",12287
+173,psf/requests-html,12205,826,449,"['html', 'scraping', 'python', 'requests', 'http', 'kennethreitz', 'lxml', 'pyquery', 'css-selectors', 'beautifulsoup']",3013
+174,NVIDIA/FastPhotoStyle,10663,1135,92,[],51946
+175,eriklindernoren/PyTorch-GAN,10518,2916,193,[],69709
+176,microsoft/nni,10455,1448,2354,"['automl', 'deep-learning', 'neural-architecture-search', 'hyperparameter-optimization', 'distributed', 'bayesian-optimization', 'automated-machine-learning', 'machine-learning', 'machine-learning-algorithms', 'data-science', 'tensorflow', 'pytorch', 'neural-network', 'deep-neural-network', 'model-compression', 'feature-engineering', 'automated-feature-engineering', 'nas', 'python', 'feature-extraction']",55504
+177,huggingface/transformers,53409,12189,8257,"['nlp', 'natural-language-processing', 'natural-language-understanding', 'pytorch', 'language-model', 'natural-language-generation', 'tensorflow', 'bert', 'language-models', 'pytorch-transformers', 'nlp-library', 'transformer', 'model-hub', 'pretrained-models', 'jax', 'flax', 'seq2seq', 'speech-recognition', 'hacktoberfest', 'python']",72967
+178,tiangolo/fastapi,37580,2728,1886,"['python', 'json', 'swagger-ui', 'redoc', 'starlette', 'openapi', 'api', 'openapi3', 'framework', 'async', 'asyncio', 'uvicorn', 'python3', 'python-types', 'pydantic', 'json-schema', 'fastapi', 'swagger', 'rest', 'web']",10817
+179,fighting41love/funNLP,34511,9551,124,[],137770
+180,iperov/DeepFaceLab,29644,6136,1295,"['faceswap', 'face-swap', 'deep-learning', 'deeplearning', 'deep-neural-networks', 'deepfakes', 'deepface', 'deep-face-swap', 'fakeapp', 'neural-networks', 'neural-nets', 'deepfacelab', 'creating-deepfakes', 'arxiv']",843012
+181,google-research/bert,29499,7988,111,"['nlp', 'google', 'natural-language-processing', 'natural-language-understanding', 'tensorflow']",317
+182,sherlock-project/sherlock,27566,2946,1570,"['osint', 'reconnaissance', 'linux', 'macos', 'cli', 'sherlock', 'python3', 'windows', 'redteam', 'tools', 'information-gathering', 'hacktoberfest']",15954
+183,wangzheng0822/algo,19834,6288,1065,[],1173
+184,sebastianruder/NLP-progress,19303,3139,758,"['natural-language-processing', 'machine-learning', 'named-entity-recognition', 'machine-translation', 'nlp-tasks', 'dialogue']",1432
+185,OWASP/CheatSheetSeries,18863,2585,1319,"['owasp', 'code', 'security', 'cheatsheets', 'best-practices', 'appsec', 'application-security']",769742
+186,open-mmlab/mmdetection,17012,5519,1803,"['object-detection', 'instance-segmentation', 'rpn', 'fast-rcnn', 'faster-rcnn', 'mask-rcnn', 'cascade-rcnn', 'ssd', 'retinanet', 'pytorch']",25661
+187,google/jax,14823,1360,9578,['jax'],43104
+188,leisurelicht/wtfpython-cn,11944,2011,58,[],338
+189,microsoft/recommenders,11555,1932,7006,"['machine-learning', 'recommender', 'ranking', 'deep-learning', 'python', 'jupyter-notebook', 'recommendation-algorithm', 'rating', 'operationalization', 'kubernetes', 'azure', 'microsoft', 'recommendation-system', 'recommendation-engine', 'recommendation', 'data-science', 'tutorial', 'artificial-intelligence']",204671
+190,d2l-ai/d2l-en,11339,2594,4947,"['deep-learning', 'machine-learning', 'book', 'notebook', 'computer-vision', 'natural-language-processing', 'python', 'kaggle', 'data-science', 'mxnet', 'pytorch', 'tensorflow', 'keras']",262273
+191,GoogleCloudPlatform/microservices-demo,11113,2826,596,"['kubernetes', 'grpc', 'istio', 'opencensus', 'gke', 'skaffold', 'sample-application', 'google-cloud']",29381
+192,trekhleb/learn-python,11086,1679,47,"['python', 'python3', 'learning', 'programming-language', 'learning-python', 'learning-by-doing']",129
+193,flairNLP/flair,10903,1459,3838,"['pytorch', 'nlp', 'named-entity-recognition', 'sequence-labeling', 'semantic-role-labeling', 'word-embeddings', 'natural-language-processing', 'machine-learning']",6777
+194,mlflow/mlflow,10528,2260,2301,"['machine-learning', 'ai', 'ml', 'mlflow', 'apache-spark', 'model-management']",41745
+195,CorentinJ/Real-Time-Voice-Cloning,30931,5459,283,"['deep-learning', 'pytorch', 'tensorflow', 'tts', 'voice-cloning', 'python']",369590
+196,PyTorchLightning/pytorch-lightning,15889,1924,5972,"['python', 'deep-learning', 'artificial-intelligence', 'ai', 'pytorch', 'data-science', 'machine-learning']",94498
+197,openai/gpt-2,15039,3242,57,['paper'],4483
+198,cool-RR/PySnooper,14719,905,300,"['python', 'debug', 'debugger', 'introspection', 'logging']",293
+199,rwightman/pytorch-image-models,14166,2199,1153,"['pytorch', 'imagenet-classifier', 'resnet', 'dual-path-networks', 'cnn-classification', 'pretrained-models', 'pretrained-weights', 'distributed-training', 'mobile-deep-learning', 'mobilenet-v2', 'mnasnet', 'mobilenetv3', 'efficientnet', 'augmix', 'randaugment', 'mixnet', 'efficientnet-training', 'vision-transformer-models', 'nfnets', 'normalization-free-training']",18292
+200,Kr1s77/awesome-python-login-model,13846,2959,175,"['python', 'spiders', 'selenium', 'twitter-bot', 'weixinbot', 'facebook-login', 'jingdong', 'taobao-spider', 'zhihu-spider', 'github-login', 'bilibili-login', 'lagou-spider', 'sina-spider', '163mail-login', 'tuchong', 'douban-spider', 'guoke-spider']",18655
+201,NVlabs/stylegan,11799,2303,14,[],1721
+202,pjialin/py12306,11491,3012,209,[],3492
+203,ddbourgin/numpy-ml,10783,2996,320,"['machine-learning', 'neural-networks', 'topic-modeling', 'gaussian-mixture-models', 'hidden-markov-models', 'gradient-boosting', 'bayesian-inference', 'wavenet', 'vae', 'resnet', 'lstm', 'wgan-gp', 'attention', 'reinforcement-learning', 'good-turing-smoothing', 'knn', 'mfcc', 'gaussian-processes', 'word2vec']",10422
+204,shengqiangzhang/examples-of-web-crawlers,10602,3212,193,"['crawler', 'spider', 'taobao', 'tmall', 'example', 'python', 'selenium', 'pyquery', 'stock', 'fund', 'multithreading', 'agent-pool', 'wechat', 'wechat-report']",235539
+205,0voice/interview_internal_reference,32674,8391,339,[],751
+206,willmcgugan/rich,30666,976,2350,"['python', 'python3', 'python-library', 'terminal', 'terminal-color', 'markdown', 'tables', 'syntax-highlighting', 'ansi-colors', 'progress-bar-python', 'progress-bar', 'traceback', 'rich', 'tracebacks-rich', 'emoji']",39955
+207,facebookresearch/detectron2,18647,4725,1287,[],5833
+208,microsoft/cascadia-code,18208,589,193,[],18536
+209,deezer/spleeter,17819,1872,473,"['deezer', 'python', 'tensorflow', 'audio-processing', 'pretrained-models', 'bass', 'drums', 'vocals', 'deep-learning', 'model']",9369
+210,bregman-arie/devops-exercises,17768,3254,521,"['devops', 'aws', 'linux', 'ansible', 'python', 'docker', 'prometheus', 'containers', 'git', 'kubernetes', 'interview', 'interview-questions', 'terraform', 'azure', 'openstack', 'sql', 'coding', 'sre', 'production-engineer']",2965
+211,streamlit/streamlit,16395,1452,4441,"['python', 'machine-learning', 'data-science', 'deep-learning', 'data-visualization', 'streamlit', 'data-analysis', 'developer-tools']",125003
+212,beurtschipper/Depix,20392,2404,37,[],817
+213,ultralytics/yolov5,17949,5917,1581,"['yolov3', 'yolov4', 'yolov5', 'object-detection', 'pytorch', 'onnx', 'coreml', 'ios', 'tflite', 'yolo', 'deep-learning', 'machine-learning', 'ml']",10455
+214,PaddlePaddle/PaddleOCR,17248,3435,2993,"['ocr', 'crnn', 'ocrlite', 'db', 'chineseocr']",166840
+215,mingrammer/diagrams,15381,855,428,"['diagram', 'diagram-as-code', 'architecture', 'graphviz']",31807
+216,alievk/avatarify-python,14028,2025,360,[],5802
+217,JaidedAI/EasyOCR,12948,1614,474,"['ocr', 'deep-learning', 'crnn', 'pytorch', 'lstm', 'machine-learning', 'scene-text', 'scene-text-recognition', 'optical-character-recognition', 'cnn', 'data-mining', 'image-processing', 'python', 'easyocr', 'information-retrieval']",144782
+218,jina-ai/jina,11915,1534,6614,"['jina', 'neural-search', 'cloud-native', 'python', 'deep-learning', 'nlp', 'computer-vision', 'video-search', 'image-search', 'semantic-search', 'microservice', 'machine-learning', 'zmq', 'framework', 'search', 'search-as-a-service', 'multimodal-search', 'hacktoberfest']",354859
+219,mxrch/GHunt,10297,804,236,"['osint', 'google', 'hideandsec']",306
+220,huggingface/datasets,10273,1246,2141,"['nlp', 'datasets', 'metrics', 'evaluation', 'pytorch', 'tensorflow', 'pandas', 'numpy', 'natural-language-processing', 'computer-vision', 'machine-learning']",64031
